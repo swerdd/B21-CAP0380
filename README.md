@@ -1,2 +1,2 @@
-# B21-CAP0380
-EZ Inventory Management
+# EZ Inventory Management
+B21-CAP0380
